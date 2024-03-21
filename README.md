@@ -1,5 +1,5 @@
-# SimpleWebSocketChat
-This API allows customers to create a simple WebSocket chat with general chatroom
+# SimpleChat
+This API allows customers to create a simple chat with general chatroom
 
 ___
 # Table diagrams
